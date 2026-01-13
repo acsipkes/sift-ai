@@ -6,7 +6,7 @@ authors:
   orcid: "https://orcid.org/0009-0001-2015-3608"
 title: "Sift AI: Modular Document Processing and Multi-Agent Debate Framework"
 version: 1.0.0
-doi: 10.5281/zenodo.xxxxxx  # Ezt majd akkor írd be, ha megvan a Zenodo DOI
+doi: 10.5281/zenodo.18236368
 date-released: 2026-01-11
 url: "https://github.com/acsipkes/sift-ai"
 license: MIT

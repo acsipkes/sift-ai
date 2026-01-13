@@ -1,5 +1,3 @@
----
-
 # Sift AI
 
 **A domain-first, AI-assisted research framework for structured document analysis and controlled multi-agent debate.**
@@ -211,7 +209,7 @@ MIT License
   year = {2026},
   publisher = {Zenodo},
   version = {1.0.0},
-  doi = {10.5281/zenodo.xxxxxx},
+  doi = {10.5281/zenodo.18236368},
   url = {https://github.com/acsipkes/sift-ai}
 }
 ```
