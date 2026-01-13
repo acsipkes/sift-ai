@@ -1,0 +1,13 @@
+# Konfiguráció és titkok
+config.json
+.env
+*.db
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Kimeneti mappák
+ai_responses/
+results/

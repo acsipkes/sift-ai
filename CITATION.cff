@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Csipkés"
+  given-names: "Attila"
+  orcid: "https://orcid.org/0009-0001-2015-3608"
+title: "Sift AI: Modular Document Processing and Multi-Agent Debate Framework"
+version: 1.0.0
+doi: 10.5281/zenodo.xxxxxx  # Ezt majd akkor írd be, ha megvan a Zenodo DOI
+date-released: 2026-01-11
+url: "https://github.com/acsipkes/sift-ai"
+license: MIT
+keywords:
+  - "legal-tech"
+  - "multi-agent-systems"
+  - "digital-humanities"
+  - "debate-simulation"
